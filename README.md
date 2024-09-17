@@ -5,7 +5,7 @@ I'm Zichen, a data analytics enthusiast with a background in Python, SQL, and ma
 I am currently job hunting so please reach out to me on [LinkedIn](https://www.linkedin.com/in/zichen-fan/)
 
 ### Skills
-![image1]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})
-![image2]({https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white})
-![image3]({https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white})
+![image1](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![image2](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![image3](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 ![image](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
